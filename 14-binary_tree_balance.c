@@ -2,7 +2,7 @@
 #include "9-binary_tree_height.c"
 
 /**
- * binary_trees_balance - measures the balance factor
+ * binary_tree_balance - measures the balance factor
  * of a binary tree
  * @tree: a pointer to the root of the node of the tree
  * to measure the balance factor
